@@ -3,7 +3,7 @@
 #include <vector>
 
 #include "Native.h"
-#include "resource.h"
+#include "../resource.h"
 
 std::string resource()
 {
